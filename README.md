@@ -2,7 +2,7 @@
 
 🚀 **Hackathon Project** - End-to-end website for plant disease detection, crop identification, and AI-based recommendations.
 
-![UI Preview](image.png)
+![UI Preview](progress.png)
 
 ---
 
